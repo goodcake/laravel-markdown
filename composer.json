@@ -8,6 +8,12 @@
             "email": "andreas@rocketship.se"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/goodcake/parsedown"
+        }
+    ],
     "require": {
         "Illuminate/Support": "^5.5",
         "erusev/parsedown": "dev-goodcake-1"
