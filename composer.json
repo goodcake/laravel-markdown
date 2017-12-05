@@ -10,7 +10,7 @@
     ],
     "require": {
         "Illuminate/Support": "^5.5",
-        "erusev/parsedown": "^1.6"
+        "erusev/parsedown": "dev-goodcake"
     },
     "autoload": {
         "psr-4": {
